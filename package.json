@@ -1,0 +1,28 @@
+{
+  "name": "suman.js",
+  "version": "0.0.1001",
+  "description": "Suman landgrabbing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanjs/suman.js.git"
+  },
+  "keywords": [
+    "Suman",
+    "test",
+    "runner",
+    "reporter",
+    "testing",
+    "reporting",
+    "r"
+  ],
+  "author": "Olegzandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanjs/suman.js/issues"
+  },
+  "homepage": "https://github.com/sumanjs/suman.js#readme"
+}
